@@ -1,4 +1,4 @@
-# 🎭 Open Agency: An Open-Source Workforce of AI Specialists
+# 🤖 Open Agency: An Open-Source Workforce of AI Specialists 🤖
 
 > **Your entire AI agency, ready to work**. Frontend builders, community growth strategists, creativity boosters, and critical thinkers — every agent is designed with unique skills, processes, and real results in mind.
 
