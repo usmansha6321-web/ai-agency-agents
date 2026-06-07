@@ -1,5 +1,7 @@
 # 🤖 Open Agency: An Open-Source Workforce of AI Specialists 🤖
 
+<img width="1774" height="887" alt="ChatGPT Image Jun 8, 2026, 12_20_35 AM" src="https://github.com/user-attachments/assets/180db247-4217-45ff-82e9-99a90def73b2" />
+
 > **Your entire AI agency, ready to work**. Frontend builders, community growth strategists, creativity boosters, and critical thinkers — every agent is designed with unique skills, processes, and real results in mind.
 
 [![GitHub stars](https://img.shields.io/github/stars/Anas-Khan93/ai-agency-agents?style=social)](https://github.com/Anas-Khan93/ai-agency-agents)
@@ -8,9 +10,9 @@
 
 ---
 
-## 🚀 What Is This?
+## 🚀 What Is Open Agency?
 
-Inspired by a simple Reddit discussion and refined through months of iteration, **The Agency** has evolved into a growing ecosystem of carefully designed AI agent personas. Each agent is built with a clear role and purpose:
+Inspired by a simple discussion and refined through months of iteration, **Open Agency** has evolved into a growing ecosystem of carefully designed AI agent personas. Each agent is built with a clear role and purpose:
 
 - **🎯 Domain Specialists**: Deep expertise in their domain (not generic prompt templates)
 - **🧠 Personality-Driven**: Distinct voice, thinking style, and way of communicating
@@ -318,7 +320,7 @@ MIT License - Use freely, commercially or personally. Attribution appreciated bu
 
 ## 🙏 Acknowledgments
 
-Born from a Reddit discussion about AI agent specialization. Thanks to the community for the feedback, requests, and inspiration.
+Born from a discussion about AI agent specialization. Thanks to the community for the feedback, requests, and inspiration.
 
 Special recognition to the 50+ Redditors who requested this within the first 12 hours - you proved there's demand for real, specialized AI agent systems.
 
@@ -328,8 +330,7 @@ Special recognition to the 50+ Redditors who requested this within the first 12 
 
 - **GitHub Discussions**: [Share your success stories](https://github.com/Anas-Khan93/ai-agency-agents/discussions)
 - **Issues**: [Report bugs or request features](https://github.com/Anas-Khan93/ai-agency-agents/issues)
-- **Reddit**: Join the conversation on r/ClaudeAI
-- **Twitter/X**: Share with #TheAgency
+- **Twitter/X**: Share with #OpenAgency
 
 ---
 
@@ -345,7 +346,7 @@ Special recognition to the 50+ Redditors who requested this within the first 12 
 
 <div align="center">
 
-**🎭 The Agency: Your AI Dream Team Awaits 🎭**
+**🎭 Open Agency: Your AI Dream Team Awaits 🎭**
 
 [⭐ Star this repo](https://github.com/Anas-Khan93/ai-agency-agents) • [🍴 Fork it](https://github.com/Anas-Khan93/ai-agency-agents/fork) • [🐛 Report an issue](https://github.com/Anas-Khan93/ai-agency-agents/issues)
 
